@@ -2,6 +2,6 @@
 {
   "name": "Dawid Nitka",
   "website": "http://dawidnitka.com/",
-  "skills":["Vue", "Nuxt", "TypeScript", "Nx"]
+  "skills": ["Vue", "Nuxt", "TypeScript", "Nx"]
 }
 ```
